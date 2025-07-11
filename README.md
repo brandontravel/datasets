@@ -73,7 +73,6 @@ datasets/
 │ ├── alcohol-laws.json
 │ ├── tipping-restaurants.json
 │ ├── street-food-guide.json
-│ ├── restaurant-recommendations.json
 │ └── allergies-and-diet-info.json
 │
 ├── finance-legal/
