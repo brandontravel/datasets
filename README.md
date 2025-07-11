@@ -17,7 +17,6 @@ datasets/
 │ ├── travel-vaccinations.json
 │ ├── emergency-numbers.json
 │ ├── country-risk-ratings.json
-│ ├── solo-traveler-tips.json
 │ ├── night-safety.json
 │ ├── travel-advisories.json
 │ └── border-crossing-info.json
