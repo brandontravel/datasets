@@ -58,14 +58,9 @@ datasets/
 │ └── left-right-driving.json
 │
 ├── accommodations/
-│ ├── hostel-recommendations.json
-│ ├── solo-friendly-hotels.json
 │ ├── airbnb-safety-tips.json
 │ ├── camping-sites.json
 │ ├── home-exchange-platforms.json
-│ ├── eco-friendly-accommodation.json
-│ ├── budget-accommodation.json
-│ ├── luxury-travel.json
 │ ├── emergency-housing-options.json
 │ └── accommodation-scam-warnings.json
 │
