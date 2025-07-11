@@ -1,0 +1,34 @@
+[
+  {
+    "airline_name":"Air Canada",
+    "iata_code":"AC",
+    "icao_code":"ACA",
+    "country":"Canada",
+    "alliance":"Star Alliance",
+    "website":"https:\/\/www.aircanada.com"
+  },
+  {
+    "airline_name":"Lufthansa",
+    "iata_code":"LH",
+    "icao_code":"DLH",
+    "country":"Germany",
+    "alliance":"Star Alliance",
+    "website":"https:\/\/www.lufthansa.com"
+  },
+  {
+    "airline_name":"Japan Airlines",
+    "iata_code":"JL",
+    "icao_code":"JAL",
+    "country":"Japan",
+    "alliance":"Oneworld",
+    "website":"https:\/\/www.jal.co.jp"
+  },
+  {
+    "airline_name":"American Airlines",
+    "iata_code":"AA",
+    "icao_code":"AAL",
+    "country":"United States",
+    "alliance":"Oneworld",
+    "website":"https:\/\/www.aa.com"
+  }
+]

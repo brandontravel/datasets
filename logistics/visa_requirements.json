@@ -1,0 +1,26 @@
+[
+  {
+    "country":"Canada",
+    "visa_required_for_tourists":"No for many countries; check Canada ETA program.",
+    "visa_free_duration":"Up to 6 months",
+    "notes":"ETA required for visa-exempt countries arriving by air."
+  },
+  {
+    "country":"France",
+    "visa_required_for_tourists":"No for Schengen area, otherwise required.",
+    "visa_free_duration":"Up to 90 days in 180-day period",
+    "notes":"Part of Schengen Agreement."
+  },
+  {
+    "country":"Japan",
+    "visa_required_for_tourists":"No for many countries; check Japan visa waiver list.",
+    "visa_free_duration":"Up to 90 days",
+    "notes":"Strict immigration policies; overstaying penalties apply."
+  },
+  {
+    "country":"United States",
+    "visa_required_for_tourists":"Yes for many countries; check ESTA\/Visa Waiver Program.",
+    "visa_free_duration":"Up to 90 days (ESTA countries)",
+    "notes":"Visa policies vary greatly by nationality."
+  }
+]

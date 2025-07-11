@@ -1,0 +1,42 @@
+[
+  {
+    "airport_name":"Toronto Pearson International Airport",
+    "iata_code":"YYZ",
+    "icao_code":"CYYZ",
+    "city":"Toronto",
+    "country":"Canada",
+    "timezone":"UTC\u221205:00",
+    "runway_info":"4 runways",
+    "website":"https:\/\/www.torontopearson.com"
+  },
+  {
+    "airport_name":"Charles de Gaulle Airport",
+    "iata_code":"CDG",
+    "icao_code":"LFPG",
+    "city":"Paris",
+    "country":"France",
+    "timezone":"UTC+1",
+    "runway_info":"4 runways",
+    "website":"https:\/\/www.parisaeroport.fr\/en"
+  },
+  {
+    "airport_name":"Tokyo Haneda Airport",
+    "iata_code":"HND",
+    "icao_code":"RJTT",
+    "city":"Tokyo",
+    "country":"Japan",
+    "timezone":"UTC+9",
+    "runway_info":"4 runways",
+    "website":"https:\/\/tokyo-haneda.com\/en"
+  },
+  {
+    "airport_name":"Los Angeles International Airport",
+    "iata_code":"LAX",
+    "icao_code":"KLAX",
+    "city":"Los Angeles",
+    "country":"United States",
+    "timezone":"UTC\u22128",
+    "runway_info":"4 runways",
+    "website":"https:\/\/www.flylax.com"
+  }
+]

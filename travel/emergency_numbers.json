@@ -1,0 +1,42 @@
+[
+  {
+    "country":"Canada",
+    "emergency_numbers":{
+      "general":"911",
+      "police":"911",
+      "ambulance":"911",
+      "fire":"911"
+    },
+    "notes":"Unified emergency number."
+  },
+  {
+    "country":"France",
+    "emergency_numbers":{
+      "general":"112",
+      "police":"17",
+      "ambulance":"15",
+      "fire":"18"
+    },
+    "notes":"112 works EU-wide."
+  },
+  {
+    "country":"Japan",
+    "emergency_numbers":{
+      "general":"110 (police), 119 (fire\/ambulance)",
+      "police":"110",
+      "ambulance":"119",
+      "fire":"119"
+    },
+    "notes":"Separate numbers for police and ambulance."
+  },
+  {
+    "country":"United States",
+    "emergency_numbers":{
+      "general":"911",
+      "police":"911",
+      "ambulance":"911",
+      "fire":"911"
+    },
+    "notes":"Unified emergency number."
+  }
+]
