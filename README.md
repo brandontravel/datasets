@@ -17,7 +17,6 @@ datasets/
 │ ├── travel-vaccinations.json
 │ ├── emergency-numbers.json
 │ ├── country-risk-ratings.json
-│ ├── solo-traveler-tips.json
 │ ├── night-safety.json
 │ ├── travel-advisories.json
 │ └── border-crossing-info.json
@@ -59,14 +58,9 @@ datasets/
 │ └── left-right-driving.json
 │
 ├── accommodations/
-│ ├── hostel-recommendations.json
-│ ├── solo-friendly-hotels.json
 │ ├── airbnb-safety-tips.json
 │ ├── camping-sites.json
 │ ├── home-exchange-platforms.json
-│ ├── eco-friendly-accommodation.json
-│ ├── budget-accommodation.json
-│ ├── luxury-travel.json
 │ ├── emergency-housing-options.json
 │ └── accommodation-scam-warnings.json
 │
@@ -79,7 +73,6 @@ datasets/
 │ ├── alcohol-laws.json
 │ ├── tipping-restaurants.json
 │ ├── street-food-guide.json
-│ ├── restaurant-recommendations.json
 │ └── allergies-and-diet-info.json
 │
 ├── finance-legal/
