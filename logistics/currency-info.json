@@ -1,0 +1,2243 @@
+[
+  {
+    "country":"Aruba",
+    "official_currency":"",
+    "currency_code":"ABW",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Afghanistan",
+    "official_currency":"",
+    "currency_code":"AFG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Angola",
+    "official_currency":"",
+    "currency_code":"AGO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Anguilla",
+    "official_currency":"",
+    "currency_code":"AIA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"\u00c5land Islands",
+    "official_currency":"",
+    "currency_code":"ALA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Albania",
+    "official_currency":"",
+    "currency_code":"ALB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Andorra",
+    "official_currency":"",
+    "currency_code":"AND",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"United Arab Emirates",
+    "official_currency":"",
+    "currency_code":"ARE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Argentina",
+    "official_currency":"",
+    "currency_code":"ARG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Armenia",
+    "official_currency":"",
+    "currency_code":"ARM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"American Samoa",
+    "official_currency":"",
+    "currency_code":"ASM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Antarctica",
+    "official_currency":"",
+    "currency_code":"ATA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"French Southern Territories",
+    "official_currency":"",
+    "currency_code":"ATF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "official_currency":"",
+    "currency_code":"ATG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Australia",
+    "official_currency":"",
+    "currency_code":"AUS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Austria",
+    "official_currency":"",
+    "currency_code":"AUT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Azerbaijan",
+    "official_currency":"",
+    "currency_code":"AZE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Burundi",
+    "official_currency":"",
+    "currency_code":"BDI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Belgium",
+    "official_currency":"",
+    "currency_code":"BEL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Benin",
+    "official_currency":"",
+    "currency_code":"BEN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bonaire, Sint Eustatius and Saba",
+    "official_currency":"",
+    "currency_code":"BES",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Burkina Faso",
+    "official_currency":"",
+    "currency_code":"BFA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bangladesh",
+    "official_currency":"",
+    "currency_code":"BGD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bulgaria",
+    "official_currency":"",
+    "currency_code":"BGR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bahrain",
+    "official_currency":"",
+    "currency_code":"BHR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bahamas",
+    "official_currency":"",
+    "currency_code":"BHS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "official_currency":"",
+    "currency_code":"BIH",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Barth\u00e9lemy",
+    "official_currency":"",
+    "currency_code":"BLM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Belarus",
+    "official_currency":"",
+    "currency_code":"BLR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Belize",
+    "official_currency":"",
+    "currency_code":"BLZ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bermuda",
+    "official_currency":"",
+    "currency_code":"BMU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bolivia, Plurinational State of",
+    "official_currency":"",
+    "currency_code":"BOL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Brazil",
+    "official_currency":"",
+    "currency_code":"BRA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Barbados",
+    "official_currency":"",
+    "currency_code":"BRB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Brunei Darussalam",
+    "official_currency":"",
+    "currency_code":"BRN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bhutan",
+    "official_currency":"",
+    "currency_code":"BTN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Bouvet Island",
+    "official_currency":"",
+    "currency_code":"BVT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Botswana",
+    "official_currency":"",
+    "currency_code":"BWA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Central African Republic",
+    "official_currency":"",
+    "currency_code":"CAF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Canada",
+    "official_currency":"",
+    "currency_code":"CAN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cocos (Keeling) Islands",
+    "official_currency":"",
+    "currency_code":"CCK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Switzerland",
+    "official_currency":"",
+    "currency_code":"CHE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Chile",
+    "official_currency":"",
+    "currency_code":"CHL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"China",
+    "official_currency":"",
+    "currency_code":"CHN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"C\u00f4te d'Ivoire",
+    "official_currency":"",
+    "currency_code":"CIV",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cameroon",
+    "official_currency":"",
+    "currency_code":"CMR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Congo, The Democratic Republic of the",
+    "official_currency":"",
+    "currency_code":"COD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Congo",
+    "official_currency":"",
+    "currency_code":"COG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cook Islands",
+    "official_currency":"",
+    "currency_code":"COK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Colombia",
+    "official_currency":"",
+    "currency_code":"COL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Comoros",
+    "official_currency":"",
+    "currency_code":"COM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cabo Verde",
+    "official_currency":"",
+    "currency_code":"CPV",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Costa Rica",
+    "official_currency":"",
+    "currency_code":"CRI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cuba",
+    "official_currency":"",
+    "currency_code":"CUB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cura\u00e7ao",
+    "official_currency":"",
+    "currency_code":"CUW",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Christmas Island",
+    "official_currency":"",
+    "currency_code":"CXR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cayman Islands",
+    "official_currency":"",
+    "currency_code":"CYM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cyprus",
+    "official_currency":"",
+    "currency_code":"CYP",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Czechia",
+    "official_currency":"",
+    "currency_code":"CZE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Germany",
+    "official_currency":"",
+    "currency_code":"DEU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Djibouti",
+    "official_currency":"",
+    "currency_code":"DJI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Dominica",
+    "official_currency":"",
+    "currency_code":"DMA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Denmark",
+    "official_currency":"",
+    "currency_code":"DNK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Dominican Republic",
+    "official_currency":"",
+    "currency_code":"DOM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Algeria",
+    "official_currency":"",
+    "currency_code":"DZA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Ecuador",
+    "official_currency":"",
+    "currency_code":"ECU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Egypt",
+    "official_currency":"",
+    "currency_code":"EGY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Eritrea",
+    "official_currency":"",
+    "currency_code":"ERI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Western Sahara",
+    "official_currency":"",
+    "currency_code":"ESH",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Spain",
+    "official_currency":"",
+    "currency_code":"ESP",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Estonia",
+    "official_currency":"",
+    "currency_code":"EST",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Ethiopia",
+    "official_currency":"",
+    "currency_code":"ETH",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Finland",
+    "official_currency":"",
+    "currency_code":"FIN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Fiji",
+    "official_currency":"",
+    "currency_code":"FJI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Falkland Islands (Malvinas)",
+    "official_currency":"",
+    "currency_code":"FLK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"France",
+    "official_currency":"",
+    "currency_code":"FRA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Faroe Islands",
+    "official_currency":"",
+    "currency_code":"FRO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Micronesia, Federated States of",
+    "official_currency":"",
+    "currency_code":"FSM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Gabon",
+    "official_currency":"",
+    "currency_code":"GAB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"United Kingdom",
+    "official_currency":"",
+    "currency_code":"GBR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Georgia",
+    "official_currency":"",
+    "currency_code":"GEO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guernsey",
+    "official_currency":"",
+    "currency_code":"GGY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Ghana",
+    "official_currency":"",
+    "currency_code":"GHA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Gibraltar",
+    "official_currency":"",
+    "currency_code":"GIB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guinea",
+    "official_currency":"",
+    "currency_code":"GIN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guadeloupe",
+    "official_currency":"",
+    "currency_code":"GLP",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Gambia",
+    "official_currency":"",
+    "currency_code":"GMB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guinea-Bissau",
+    "official_currency":"",
+    "currency_code":"GNB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Equatorial Guinea",
+    "official_currency":"",
+    "currency_code":"GNQ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Greece",
+    "official_currency":"",
+    "currency_code":"GRC",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Grenada",
+    "official_currency":"",
+    "currency_code":"GRD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Greenland",
+    "official_currency":"",
+    "currency_code":"GRL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guatemala",
+    "official_currency":"",
+    "currency_code":"GTM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"French Guiana",
+    "official_currency":"",
+    "currency_code":"GUF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guam",
+    "official_currency":"",
+    "currency_code":"GUM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Guyana",
+    "official_currency":"",
+    "currency_code":"GUY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Hong Kong",
+    "official_currency":"",
+    "currency_code":"HKG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Heard Island and McDonald Islands",
+    "official_currency":"",
+    "currency_code":"HMD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Honduras",
+    "official_currency":"",
+    "currency_code":"HND",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Croatia",
+    "official_currency":"",
+    "currency_code":"HRV",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Haiti",
+    "official_currency":"",
+    "currency_code":"HTI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Hungary",
+    "official_currency":"",
+    "currency_code":"HUN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Indonesia",
+    "official_currency":"",
+    "currency_code":"IDN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Isle of Man",
+    "official_currency":"",
+    "currency_code":"IMN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"India",
+    "official_currency":"",
+    "currency_code":"IND",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "official_currency":"",
+    "currency_code":"IOT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Ireland",
+    "official_currency":"",
+    "currency_code":"IRL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Iran, Islamic Republic of",
+    "official_currency":"",
+    "currency_code":"IRN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Iraq",
+    "official_currency":"",
+    "currency_code":"IRQ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Iceland",
+    "official_currency":"",
+    "currency_code":"ISL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Israel",
+    "official_currency":"",
+    "currency_code":"ISR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Italy",
+    "official_currency":"",
+    "currency_code":"ITA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Jamaica",
+    "official_currency":"",
+    "currency_code":"JAM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Jersey",
+    "official_currency":"",
+    "currency_code":"JEY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Jordan",
+    "official_currency":"",
+    "currency_code":"JOR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Japan",
+    "official_currency":"",
+    "currency_code":"JPN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Kazakhstan",
+    "official_currency":"",
+    "currency_code":"KAZ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Kenya",
+    "official_currency":"",
+    "currency_code":"KEN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Kyrgyzstan",
+    "official_currency":"",
+    "currency_code":"KGZ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Cambodia",
+    "official_currency":"",
+    "currency_code":"KHM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Kiribati",
+    "official_currency":"",
+    "currency_code":"KIR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "official_currency":"",
+    "currency_code":"KNA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Korea, Republic of",
+    "official_currency":"",
+    "currency_code":"KOR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Kuwait",
+    "official_currency":"",
+    "currency_code":"KWT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Lao People's Democratic Republic",
+    "official_currency":"",
+    "currency_code":"LAO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Lebanon",
+    "official_currency":"",
+    "currency_code":"LBN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Liberia",
+    "official_currency":"",
+    "currency_code":"LBR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Libya",
+    "official_currency":"",
+    "currency_code":"LBY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Lucia",
+    "official_currency":"",
+    "currency_code":"LCA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Liechtenstein",
+    "official_currency":"",
+    "currency_code":"LIE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Sri Lanka",
+    "official_currency":"",
+    "currency_code":"LKA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Lesotho",
+    "official_currency":"",
+    "currency_code":"LSO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Lithuania",
+    "official_currency":"",
+    "currency_code":"LTU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Luxembourg",
+    "official_currency":"",
+    "currency_code":"LUX",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Latvia",
+    "official_currency":"",
+    "currency_code":"LVA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Macao",
+    "official_currency":"",
+    "currency_code":"MAC",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Martin (French part)",
+    "official_currency":"",
+    "currency_code":"MAF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Morocco",
+    "official_currency":"",
+    "currency_code":"MAR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Monaco",
+    "official_currency":"",
+    "currency_code":"MCO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Moldova, Republic of",
+    "official_currency":"",
+    "currency_code":"MDA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Madagascar",
+    "official_currency":"",
+    "currency_code":"MDG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Maldives",
+    "official_currency":"",
+    "currency_code":"MDV",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mexico",
+    "official_currency":"",
+    "currency_code":"MEX",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Marshall Islands",
+    "official_currency":"",
+    "currency_code":"MHL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"North Macedonia",
+    "official_currency":"",
+    "currency_code":"MKD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mali",
+    "official_currency":"",
+    "currency_code":"MLI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Malta",
+    "official_currency":"",
+    "currency_code":"MLT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Myanmar",
+    "official_currency":"",
+    "currency_code":"MMR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Montenegro",
+    "official_currency":"",
+    "currency_code":"MNE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mongolia",
+    "official_currency":"",
+    "currency_code":"MNG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "official_currency":"",
+    "currency_code":"MNP",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mozambique",
+    "official_currency":"",
+    "currency_code":"MOZ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mauritania",
+    "official_currency":"",
+    "currency_code":"MRT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Montserrat",
+    "official_currency":"",
+    "currency_code":"MSR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Martinique",
+    "official_currency":"",
+    "currency_code":"MTQ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mauritius",
+    "official_currency":"",
+    "currency_code":"MUS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Malawi",
+    "official_currency":"",
+    "currency_code":"MWI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Malaysia",
+    "official_currency":"",
+    "currency_code":"MYS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Mayotte",
+    "official_currency":"",
+    "currency_code":"MYT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Namibia",
+    "official_currency":"",
+    "currency_code":"NAM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"New Caledonia",
+    "official_currency":"",
+    "currency_code":"NCL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Niger",
+    "official_currency":"",
+    "currency_code":"NER",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Norfolk Island",
+    "official_currency":"",
+    "currency_code":"NFK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Nigeria",
+    "official_currency":"",
+    "currency_code":"NGA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Nicaragua",
+    "official_currency":"",
+    "currency_code":"NIC",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Niue",
+    "official_currency":"",
+    "currency_code":"NIU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Netherlands",
+    "official_currency":"",
+    "currency_code":"NLD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Norway",
+    "official_currency":"",
+    "currency_code":"NOR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Nepal",
+    "official_currency":"",
+    "currency_code":"NPL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Nauru",
+    "official_currency":"",
+    "currency_code":"NRU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"New Zealand",
+    "official_currency":"",
+    "currency_code":"NZL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Oman",
+    "official_currency":"",
+    "currency_code":"OMN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Pakistan",
+    "official_currency":"",
+    "currency_code":"PAK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Panama",
+    "official_currency":"",
+    "currency_code":"PAN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Pitcairn",
+    "official_currency":"",
+    "currency_code":"PCN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Peru",
+    "official_currency":"",
+    "currency_code":"PER",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Philippines",
+    "official_currency":"",
+    "currency_code":"PHL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Palau",
+    "official_currency":"",
+    "currency_code":"PLW",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Papua New Guinea",
+    "official_currency":"",
+    "currency_code":"PNG",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Poland",
+    "official_currency":"",
+    "currency_code":"POL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Puerto Rico",
+    "official_currency":"",
+    "currency_code":"PRI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Korea, Democratic People's Republic of",
+    "official_currency":"",
+    "currency_code":"PRK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Portugal",
+    "official_currency":"",
+    "currency_code":"PRT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Paraguay",
+    "official_currency":"",
+    "currency_code":"PRY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Palestine, State of",
+    "official_currency":"",
+    "currency_code":"PSE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"French Polynesia",
+    "official_currency":"",
+    "currency_code":"PYF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Qatar",
+    "official_currency":"",
+    "currency_code":"QAT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"R\u00e9union",
+    "official_currency":"",
+    "currency_code":"REU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Romania",
+    "official_currency":"",
+    "currency_code":"ROU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Russian Federation",
+    "official_currency":"",
+    "currency_code":"RUS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Rwanda",
+    "official_currency":"",
+    "currency_code":"RWA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saudi Arabia",
+    "official_currency":"",
+    "currency_code":"SAU",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Sudan",
+    "official_currency":"",
+    "currency_code":"SDN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Senegal",
+    "official_currency":"",
+    "currency_code":"SEN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Singapore",
+    "official_currency":"",
+    "currency_code":"SGP",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"South Georgia and the South Sandwich Islands",
+    "official_currency":"",
+    "currency_code":"SGS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Helena, Ascension and Tristan da Cunha",
+    "official_currency":"",
+    "currency_code":"SHN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "official_currency":"",
+    "currency_code":"SJM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Solomon Islands",
+    "official_currency":"",
+    "currency_code":"SLB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Sierra Leone",
+    "official_currency":"",
+    "currency_code":"SLE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"El Salvador",
+    "official_currency":"",
+    "currency_code":"SLV",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"San Marino",
+    "official_currency":"",
+    "currency_code":"SMR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Somalia",
+    "official_currency":"",
+    "currency_code":"SOM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Pierre and Miquelon",
+    "official_currency":"",
+    "currency_code":"SPM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Serbia",
+    "official_currency":"",
+    "currency_code":"SRB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"South Sudan",
+    "official_currency":"",
+    "currency_code":"SSD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Sao Tome and Principe",
+    "official_currency":"",
+    "currency_code":"STP",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Suriname",
+    "official_currency":"",
+    "currency_code":"SUR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Slovakia",
+    "official_currency":"",
+    "currency_code":"SVK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Slovenia",
+    "official_currency":"",
+    "currency_code":"SVN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Sweden",
+    "official_currency":"",
+    "currency_code":"SWE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Eswatini",
+    "official_currency":"",
+    "currency_code":"SWZ",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Sint Maarten (Dutch part)",
+    "official_currency":"",
+    "currency_code":"SXM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Seychelles",
+    "official_currency":"",
+    "currency_code":"SYC",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Syrian Arab Republic",
+    "official_currency":"",
+    "currency_code":"SYR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Turks and Caicos Islands",
+    "official_currency":"",
+    "currency_code":"TCA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Chad",
+    "official_currency":"",
+    "currency_code":"TCD",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Togo",
+    "official_currency":"",
+    "currency_code":"TGO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Thailand",
+    "official_currency":"",
+    "currency_code":"THA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Tajikistan",
+    "official_currency":"",
+    "currency_code":"TJK",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Tokelau",
+    "official_currency":"",
+    "currency_code":"TKL",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Turkmenistan",
+    "official_currency":"",
+    "currency_code":"TKM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Timor-Leste",
+    "official_currency":"",
+    "currency_code":"TLS",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Tonga",
+    "official_currency":"",
+    "currency_code":"TON",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "official_currency":"",
+    "currency_code":"TTO",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Tunisia",
+    "official_currency":"",
+    "currency_code":"TUN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Turkey",
+    "official_currency":"",
+    "currency_code":"TUR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Tuvalu",
+    "official_currency":"",
+    "currency_code":"TUV",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Taiwan, Province of China",
+    "official_currency":"",
+    "currency_code":"TWN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Tanzania, United Republic of",
+    "official_currency":"",
+    "currency_code":"TZA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Uganda",
+    "official_currency":"",
+    "currency_code":"UGA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Ukraine",
+    "official_currency":"",
+    "currency_code":"UKR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"United States Minor Outlying Islands",
+    "official_currency":"",
+    "currency_code":"UMI",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Uruguay",
+    "official_currency":"",
+    "currency_code":"URY",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"United States",
+    "official_currency":"",
+    "currency_code":"USA",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Uzbekistan",
+    "official_currency":"",
+    "currency_code":"UZB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Holy See (Vatican City State)",
+    "official_currency":"",
+    "currency_code":"VAT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "official_currency":"",
+    "currency_code":"VCT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Venezuela, Bolivarian Republic of",
+    "official_currency":"",
+    "currency_code":"VEN",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Virgin Islands, British",
+    "official_currency":"",
+    "currency_code":"VGB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Virgin Islands, U.S.",
+    "official_currency":"",
+    "currency_code":"VIR",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Viet Nam",
+    "official_currency":"",
+    "currency_code":"VNM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Vanuatu",
+    "official_currency":"",
+    "currency_code":"VUT",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Wallis and Futuna",
+    "official_currency":"",
+    "currency_code":"WLF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Samoa",
+    "official_currency":"",
+    "currency_code":"WSM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Yemen",
+    "official_currency":"",
+    "currency_code":"YEM",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"South Africa",
+    "official_currency":"",
+    "currency_code":"ZAF",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Zambia",
+    "official_currency":"",
+    "currency_code":"ZMB",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  },
+  {
+    "country":"Zimbabwe",
+    "official_currency":"",
+    "currency_code":"ZWE",
+    "common_currency_symbols":"",
+    "commonly_used_payment_methods":"Cash, Credit Cards, Mobile Payments",
+    "foreign_currency_acceptance":"Rare; local currency preferred",
+    "notes":"Check exchange rates before traveling."
+  }
+]

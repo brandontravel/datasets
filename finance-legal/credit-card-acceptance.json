@@ -1,0 +1,1745 @@
+[
+  {
+    "country":"Aruba",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Afghanistan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Angola",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Anguilla",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"\u00c5land Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Albania",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Andorra",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"United Arab Emirates",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Argentina",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Armenia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"American Samoa",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Antarctica",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"French Southern Territories",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Australia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Austria",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Azerbaijan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Burundi",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Belgium",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Benin",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bonaire, Sint Eustatius and Saba",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Burkina Faso",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bangladesh",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bulgaria",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bahrain",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bahamas",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Barth\u00e9lemy",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Belarus",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Belize",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bermuda",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bolivia, Plurinational State of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Brazil",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Barbados",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Brunei Darussalam",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bhutan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Bouvet Island",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Botswana",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Central African Republic",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Canada",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cocos (Keeling) Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Switzerland",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Chile",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"China",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"C\u00f4te d'Ivoire",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cameroon",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Congo, The Democratic Republic of the",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Congo",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cook Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Colombia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Comoros",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cabo Verde",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Costa Rica",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cuba",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cura\u00e7ao",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Christmas Island",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cayman Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cyprus",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Czechia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Germany",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Djibouti",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Dominica",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Denmark",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Dominican Republic",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Algeria",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Ecuador",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Egypt",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Eritrea",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Western Sahara",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Spain",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Estonia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Ethiopia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Finland",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Fiji",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Falkland Islands (Malvinas)",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"France",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Faroe Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Micronesia, Federated States of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Gabon",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"United Kingdom",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Georgia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guernsey",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Ghana",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Gibraltar",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guinea",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guadeloupe",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Gambia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guinea-Bissau",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Equatorial Guinea",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Greece",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Grenada",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Greenland",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guatemala",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"French Guiana",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guam",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Guyana",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Hong Kong",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Heard Island and McDonald Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Honduras",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Croatia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Haiti",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Hungary",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Indonesia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Isle of Man",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"India",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Ireland",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Iran, Islamic Republic of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Iraq",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Iceland",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Israel",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Italy",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Jamaica",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Jersey",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Jordan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Japan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Kazakhstan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Kenya",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Kyrgyzstan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Cambodia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Kiribati",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Korea, Republic of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Kuwait",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Lao People's Democratic Republic",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Lebanon",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Liberia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Libya",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Lucia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Liechtenstein",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Sri Lanka",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Lesotho",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Lithuania",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Luxembourg",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Latvia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Macao",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Martin (French part)",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Morocco",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Monaco",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Moldova, Republic of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Madagascar",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Maldives",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mexico",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Marshall Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"North Macedonia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mali",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Malta",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Myanmar",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Montenegro",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mongolia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mozambique",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mauritania",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Montserrat",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Martinique",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mauritius",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Malawi",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Malaysia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Mayotte",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Namibia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"New Caledonia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Niger",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Norfolk Island",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Nigeria",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Nicaragua",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Niue",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Netherlands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Norway",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Nepal",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Nauru",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"New Zealand",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Oman",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Pakistan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Panama",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Pitcairn",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Peru",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Philippines",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Palau",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Papua New Guinea",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Poland",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Puerto Rico",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Korea, Democratic People's Republic of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Portugal",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Paraguay",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Palestine, State of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"French Polynesia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Qatar",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"R\u00e9union",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Romania",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Russian Federation",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Rwanda",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saudi Arabia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Sudan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Senegal",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Singapore",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"South Georgia and the South Sandwich Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Helena, Ascension and Tristan da Cunha",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Solomon Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Sierra Leone",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"El Salvador",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"San Marino",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Somalia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Pierre and Miquelon",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Serbia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"South Sudan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Sao Tome and Principe",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Suriname",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Slovakia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Slovenia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Sweden",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Eswatini",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Sint Maarten (Dutch part)",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Seychelles",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Syrian Arab Republic",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Turks and Caicos Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Chad",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Togo",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Thailand",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Tajikistan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Tokelau",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Turkmenistan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Timor-Leste",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Tonga",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Tunisia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Turkey",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Tuvalu",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Taiwan, Province of China",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Tanzania, United Republic of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Uganda",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Ukraine",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"United States Minor Outlying Islands",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Uruguay",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"United States",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Uzbekistan",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Holy See (Vatican City State)",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Venezuela, Bolivarian Republic of",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Virgin Islands, British",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Virgin Islands, U.S.",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Viet Nam",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Vanuatu",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Wallis and Futuna",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Samoa",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Yemen",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"South Africa",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Zambia",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  },
+  {
+    "country":"Zimbabwe",
+    "credit_card_acceptance_level":"Moderate",
+    "commonly_accepted_card_brands":"Visa, Mastercard, American Express",
+    "cashless_payment_availability":"Widely available in urban areas",
+    "notes":"Card acceptance varies by city and business type; carry local currency as backup."
+  }
+]

@@ -1,0 +1,2243 @@
+[
+  {
+    "country":"Aruba",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Afghanistan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Angola",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Anguilla",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"\u00c5land Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Albania",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Andorra",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"United Arab Emirates",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Argentina",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Armenia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"American Samoa",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Antarctica",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"French Southern Territories",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Australia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Austria",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Azerbaijan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Burundi",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Belgium",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Benin",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bonaire, Sint Eustatius and Saba",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Burkina Faso",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bangladesh",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bulgaria",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bahrain",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bahamas",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Barth\u00e9lemy",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Belarus",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Belize",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bermuda",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bolivia, Plurinational State of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Brazil",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Barbados",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Brunei Darussalam",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bhutan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Bouvet Island",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Botswana",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Central African Republic",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Canada",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cocos (Keeling) Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Switzerland",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Chile",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"China",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"C\u00f4te d'Ivoire",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cameroon",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Congo, The Democratic Republic of the",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Congo",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cook Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Colombia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Comoros",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cabo Verde",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Costa Rica",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cuba",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cura\u00e7ao",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Christmas Island",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cayman Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cyprus",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Czechia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Germany",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Djibouti",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Dominica",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Denmark",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Dominican Republic",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Algeria",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Ecuador",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Egypt",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Eritrea",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Western Sahara",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Spain",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Estonia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Ethiopia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Finland",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Fiji",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Falkland Islands (Malvinas)",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"France",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Faroe Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Micronesia, Federated States of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Gabon",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"United Kingdom",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Georgia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guernsey",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Ghana",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Gibraltar",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guinea",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guadeloupe",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Gambia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guinea-Bissau",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Equatorial Guinea",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Greece",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Grenada",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Greenland",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guatemala",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"French Guiana",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guam",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Guyana",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Hong Kong",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Heard Island and McDonald Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Honduras",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Croatia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Haiti",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Hungary",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Indonesia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Isle of Man",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"India",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Ireland",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Iran, Islamic Republic of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Iraq",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Iceland",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Israel",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Italy",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Jamaica",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Jersey",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Jordan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Japan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Kazakhstan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Kenya",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Kyrgyzstan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Cambodia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Kiribati",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Korea, Republic of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Kuwait",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Lao People's Democratic Republic",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Lebanon",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Liberia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Libya",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Lucia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Liechtenstein",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Sri Lanka",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Lesotho",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Lithuania",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Luxembourg",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Latvia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Macao",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Martin (French part)",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Morocco",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Monaco",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Moldova, Republic of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Madagascar",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Maldives",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mexico",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Marshall Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"North Macedonia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mali",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Malta",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Myanmar",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Montenegro",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mongolia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mozambique",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mauritania",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Montserrat",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Martinique",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mauritius",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Malawi",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Malaysia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Mayotte",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Namibia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"New Caledonia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Niger",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Norfolk Island",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Nigeria",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Nicaragua",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Niue",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Netherlands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Norway",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Nepal",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Nauru",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"New Zealand",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Oman",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Pakistan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Panama",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Pitcairn",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Peru",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Philippines",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Palau",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Papua New Guinea",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Poland",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Puerto Rico",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Korea, Democratic People's Republic of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Portugal",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Paraguay",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Palestine, State of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"French Polynesia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Qatar",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"R\u00e9union",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Romania",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Russian Federation",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Rwanda",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saudi Arabia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Sudan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Senegal",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Singapore",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"South Georgia and the South Sandwich Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Helena, Ascension and Tristan da Cunha",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Solomon Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Sierra Leone",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"El Salvador",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"San Marino",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Somalia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Pierre and Miquelon",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Serbia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"South Sudan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Sao Tome and Principe",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Suriname",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Slovakia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Slovenia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Sweden",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Eswatini",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Sint Maarten (Dutch part)",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Seychelles",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Syrian Arab Republic",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Turks and Caicos Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Chad",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Togo",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Thailand",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Tajikistan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Tokelau",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Turkmenistan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Timor-Leste",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Tonga",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Tunisia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Turkey",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Tuvalu",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Taiwan, Province of China",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Tanzania, United Republic of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Uganda",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Ukraine",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"United States Minor Outlying Islands",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Uruguay",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"United States",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Uzbekistan",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Holy See (Vatican City State)",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Venezuela, Bolivarian Republic of",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Virgin Islands, British",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Virgin Islands, U.S.",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Viet Nam",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Vanuatu",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Wallis and Futuna",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Samoa",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Yemen",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"South Africa",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Zambia",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  },
+  {
+    "country":"Zimbabwe",
+    "local_healthcare_quality":"Varies",
+    "access_to_english_speaking_medical_care":"Available in major cities",
+    "recommended_vaccinations":"Check travel health advisories",
+    "emergency_medical_contact":"",
+    "healthcare_cost_level":"Moderate",
+    "health_insurance_required":"Yes, strongly recommended"
+  }
+]

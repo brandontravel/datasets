@@ -1,0 +1,1247 @@
+[
+  {
+    "country":"Aruba",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Afghanistan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Angola",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Anguilla",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"\u00c5land Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Albania",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Andorra",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"United Arab Emirates",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Argentina",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Armenia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"American Samoa",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Antarctica",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"French Southern Territories",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Australia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Austria",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Azerbaijan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Burundi",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Belgium",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Benin",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bonaire, Sint Eustatius and Saba",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Burkina Faso",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bangladesh",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bulgaria",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bahrain",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bahamas",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Barth\u00e9lemy",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Belarus",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Belize",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bermuda",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bolivia, Plurinational State of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Brazil",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Barbados",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Brunei Darussalam",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bhutan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Bouvet Island",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Botswana",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Central African Republic",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Canada",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cocos (Keeling) Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Switzerland",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Chile",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"China",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"C\u00f4te d'Ivoire",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cameroon",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Congo, The Democratic Republic of the",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Congo",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cook Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Colombia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Comoros",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cabo Verde",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Costa Rica",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cuba",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cura\u00e7ao",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Christmas Island",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cayman Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cyprus",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Czechia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Germany",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Djibouti",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Dominica",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Denmark",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Dominican Republic",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Algeria",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Ecuador",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Egypt",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Eritrea",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Western Sahara",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Spain",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Estonia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Ethiopia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Finland",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Fiji",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Falkland Islands (Malvinas)",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"France",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Faroe Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Micronesia, Federated States of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Gabon",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"United Kingdom",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Georgia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guernsey",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Ghana",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Gibraltar",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guinea",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guadeloupe",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Gambia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guinea-Bissau",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Equatorial Guinea",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Greece",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Grenada",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Greenland",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guatemala",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"French Guiana",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guam",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Guyana",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Hong Kong",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Heard Island and McDonald Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Honduras",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Croatia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Haiti",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Hungary",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Indonesia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Isle of Man",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"India",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Ireland",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Iran, Islamic Republic of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Iraq",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Iceland",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Israel",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Italy",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Jamaica",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Jersey",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Jordan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Japan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Kazakhstan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Kenya",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Kyrgyzstan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Cambodia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Kiribati",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Korea, Republic of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Kuwait",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Lao People's Democratic Republic",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Lebanon",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Liberia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Libya",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Lucia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Liechtenstein",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Sri Lanka",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Lesotho",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Lithuania",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Luxembourg",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Latvia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Macao",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Martin (French part)",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Morocco",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Monaco",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Moldova, Republic of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Madagascar",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Maldives",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mexico",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Marshall Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"North Macedonia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mali",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Malta",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Myanmar",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Montenegro",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mongolia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mozambique",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mauritania",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Montserrat",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Martinique",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mauritius",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Malawi",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Malaysia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Mayotte",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Namibia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"New Caledonia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Niger",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Norfolk Island",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Nigeria",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Nicaragua",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Niue",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Netherlands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Norway",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Nepal",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Nauru",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"New Zealand",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Oman",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Pakistan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Panama",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Pitcairn",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Peru",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Philippines",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Palau",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Papua New Guinea",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Poland",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Puerto Rico",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Korea, Democratic People's Republic of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Portugal",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Paraguay",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Palestine, State of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"French Polynesia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Qatar",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"R\u00e9union",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Romania",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Russian Federation",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Rwanda",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saudi Arabia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Sudan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Senegal",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Singapore",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"South Georgia and the South Sandwich Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Helena, Ascension and Tristan da Cunha",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Solomon Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Sierra Leone",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"El Salvador",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"San Marino",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Somalia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Pierre and Miquelon",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Serbia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"South Sudan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Sao Tome and Principe",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Suriname",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Slovakia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Slovenia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Sweden",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Eswatini",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Sint Maarten (Dutch part)",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Seychelles",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Syrian Arab Republic",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Turks and Caicos Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Chad",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Togo",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Thailand",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Tajikistan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Tokelau",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Turkmenistan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Timor-Leste",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Tonga",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Tunisia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Turkey",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Tuvalu",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Taiwan, Province of China",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Tanzania, United Republic of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Uganda",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Ukraine",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"United States Minor Outlying Islands",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Uruguay",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"United States",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Uzbekistan",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Holy See (Vatican City State)",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Venezuela, Bolivarian Republic of",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Virgin Islands, British",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Virgin Islands, U.S.",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Viet Nam",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Vanuatu",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Wallis and Futuna",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Samoa",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Yemen",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"South Africa",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Zambia",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  },
+  {
+    "country":"Zimbabwe",
+    "driving_side":"Right",
+    "notes":"Check official local regulations if planning to drive."
+  }
+]

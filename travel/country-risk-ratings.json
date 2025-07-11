@@ -1,0 +1,2243 @@
+[
+  {
+    "country":"Aruba",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Afghanistan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Angola",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Anguilla",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"\u00c5land Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Albania",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Andorra",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"United Arab Emirates",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Argentina",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Armenia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"American Samoa",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Antarctica",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"French Southern Territories",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Australia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Austria",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Azerbaijan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Burundi",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Belgium",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Benin",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bonaire, Sint Eustatius and Saba",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Burkina Faso",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bangladesh",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bulgaria",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bahrain",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bahamas",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Barth\u00e9lemy",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Belarus",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Belize",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bermuda",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bolivia, Plurinational State of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Brazil",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Barbados",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Brunei Darussalam",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bhutan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Bouvet Island",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Botswana",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Central African Republic",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Canada",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cocos (Keeling) Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Switzerland",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Chile",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"China",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"C\u00f4te d'Ivoire",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cameroon",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Congo, The Democratic Republic of the",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Congo",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cook Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Colombia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Comoros",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cabo Verde",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Costa Rica",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cuba",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cura\u00e7ao",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Christmas Island",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cayman Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cyprus",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Czechia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Germany",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Djibouti",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Dominica",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Denmark",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Dominican Republic",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Algeria",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Ecuador",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Egypt",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Eritrea",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Western Sahara",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Spain",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Estonia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Ethiopia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Finland",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Fiji",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Falkland Islands (Malvinas)",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"France",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Faroe Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Micronesia, Federated States of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Gabon",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"United Kingdom",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Georgia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guernsey",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Ghana",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Gibraltar",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guinea",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guadeloupe",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Gambia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guinea-Bissau",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Equatorial Guinea",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Greece",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Grenada",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Greenland",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guatemala",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"French Guiana",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guam",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Guyana",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Hong Kong",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Heard Island and McDonald Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Honduras",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Croatia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Haiti",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Hungary",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Indonesia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Isle of Man",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"India",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Ireland",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Iran, Islamic Republic of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Iraq",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Iceland",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Israel",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Italy",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Jamaica",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Jersey",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Jordan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Japan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Kazakhstan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Kenya",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Kyrgyzstan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Cambodia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Kiribati",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Korea, Republic of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Kuwait",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Lao People's Democratic Republic",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Lebanon",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Liberia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Libya",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Lucia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Liechtenstein",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Sri Lanka",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Lesotho",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Lithuania",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Luxembourg",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Latvia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Macao",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Martin (French part)",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Morocco",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Monaco",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Moldova, Republic of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Madagascar",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Maldives",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mexico",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Marshall Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"North Macedonia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mali",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Malta",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Myanmar",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Montenegro",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mongolia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mozambique",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mauritania",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Montserrat",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Martinique",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mauritius",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Malawi",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Malaysia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Mayotte",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Namibia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"New Caledonia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Niger",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Norfolk Island",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Nigeria",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Nicaragua",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Niue",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Netherlands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Norway",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Nepal",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Nauru",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"New Zealand",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Oman",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Pakistan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Panama",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Pitcairn",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Peru",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Philippines",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Palau",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Papua New Guinea",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Poland",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Puerto Rico",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Korea, Democratic People's Republic of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Portugal",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Paraguay",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Palestine, State of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"French Polynesia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Qatar",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"R\u00e9union",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Romania",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Russian Federation",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Rwanda",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saudi Arabia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Sudan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Senegal",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Singapore",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"South Georgia and the South Sandwich Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Helena, Ascension and Tristan da Cunha",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Solomon Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Sierra Leone",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"El Salvador",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"San Marino",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Somalia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Pierre and Miquelon",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Serbia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"South Sudan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Sao Tome and Principe",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Suriname",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Slovakia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Slovenia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Sweden",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Eswatini",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Sint Maarten (Dutch part)",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Seychelles",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Syrian Arab Republic",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Turks and Caicos Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Chad",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Togo",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Thailand",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Tajikistan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Tokelau",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Turkmenistan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Timor-Leste",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Tonga",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Tunisia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Turkey",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Tuvalu",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Taiwan, Province of China",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Tanzania, United Republic of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Uganda",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Ukraine",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"United States Minor Outlying Islands",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Uruguay",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"United States",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Uzbekistan",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Holy See (Vatican City State)",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Venezuela, Bolivarian Republic of",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Virgin Islands, British",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Virgin Islands, U.S.",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Viet Nam",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Vanuatu",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Wallis and Futuna",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Samoa",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Yemen",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"South Africa",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Zambia",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  },
+  {
+    "country":"Zimbabwe",
+    "overall_risk_level":"Moderate",
+    "political_stability":"Stable",
+    "crime_rate":"Moderate",
+    "healthcare_risk":"Moderate",
+    "natural_disaster_risk":"Varies by region",
+    "notes":"General travel risk. Always check local advisories."
+  }
+]

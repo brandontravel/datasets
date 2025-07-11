@@ -1,0 +1,1994 @@
+[
+  {
+    "country":"Aruba",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Afghanistan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Angola",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Anguilla",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"\u00c5land Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Albania",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Andorra",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"United Arab Emirates",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Argentina",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Armenia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"American Samoa",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Antarctica",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"French Southern Territories",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Australia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Austria",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Azerbaijan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Burundi",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Belgium",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Benin",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bonaire, Sint Eustatius and Saba",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Burkina Faso",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bangladesh",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bulgaria",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bahrain",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bahamas",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Barth\u00e9lemy",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Belarus",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Belize",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bermuda",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bolivia, Plurinational State of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Brazil",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Barbados",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Brunei Darussalam",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bhutan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Bouvet Island",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Botswana",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Central African Republic",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Canada",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cocos (Keeling) Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Switzerland",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Chile",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"China",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"C\u00f4te d'Ivoire",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cameroon",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Congo, The Democratic Republic of the",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Congo",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cook Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Colombia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Comoros",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cabo Verde",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Costa Rica",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cuba",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cura\u00e7ao",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Christmas Island",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cayman Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cyprus",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Czechia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Germany",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Djibouti",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Dominica",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Denmark",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Dominican Republic",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Algeria",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Ecuador",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Egypt",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Eritrea",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Western Sahara",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Spain",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Estonia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Ethiopia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Finland",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Fiji",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Falkland Islands (Malvinas)",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"France",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Faroe Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Micronesia, Federated States of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Gabon",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"United Kingdom",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Georgia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guernsey",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Ghana",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Gibraltar",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guinea",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guadeloupe",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Gambia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guinea-Bissau",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Equatorial Guinea",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Greece",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Grenada",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Greenland",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guatemala",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"French Guiana",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guam",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Guyana",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Hong Kong",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Heard Island and McDonald Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Honduras",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Croatia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Haiti",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Hungary",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Indonesia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Isle of Man",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"India",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"British Indian Ocean Territory",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Ireland",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Iran, Islamic Republic of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Iraq",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Iceland",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Israel",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Italy",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Jamaica",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Jersey",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Jordan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Japan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Kazakhstan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Kenya",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Kyrgyzstan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Cambodia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Kiribati",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Korea, Republic of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Kuwait",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Lao People's Democratic Republic",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Lebanon",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Liberia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Libya",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Lucia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Liechtenstein",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Sri Lanka",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Lesotho",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Lithuania",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Luxembourg",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Latvia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Macao",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Martin (French part)",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Morocco",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Monaco",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Moldova, Republic of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Madagascar",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Maldives",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mexico",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Marshall Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"North Macedonia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mali",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Malta",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Myanmar",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Montenegro",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mongolia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Northern Mariana Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mozambique",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mauritania",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Montserrat",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Martinique",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mauritius",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Malawi",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Malaysia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Mayotte",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Namibia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"New Caledonia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Niger",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Norfolk Island",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Nigeria",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Nicaragua",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Niue",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Netherlands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Norway",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Nepal",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Nauru",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"New Zealand",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Oman",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Pakistan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Panama",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Pitcairn",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Peru",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Philippines",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Palau",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Papua New Guinea",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Poland",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Puerto Rico",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Korea, Democratic People's Republic of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Portugal",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Paraguay",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Palestine, State of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"French Polynesia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Qatar",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"R\u00e9union",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Romania",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Russian Federation",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Rwanda",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saudi Arabia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Sudan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Senegal",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Singapore",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"South Georgia and the South Sandwich Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Helena, Ascension and Tristan da Cunha",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Svalbard and Jan Mayen",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Solomon Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Sierra Leone",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"El Salvador",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"San Marino",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Somalia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Pierre and Miquelon",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Serbia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"South Sudan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Sao Tome and Principe",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Suriname",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Slovakia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Slovenia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Sweden",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Eswatini",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Sint Maarten (Dutch part)",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Seychelles",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Syrian Arab Republic",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Turks and Caicos Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Chad",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Togo",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Thailand",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Tajikistan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Tokelau",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Turkmenistan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Timor-Leste",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Tonga",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Tunisia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Turkey",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Tuvalu",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Taiwan, Province of China",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Tanzania, United Republic of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Uganda",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Ukraine",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"United States Minor Outlying Islands",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Uruguay",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"United States",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Uzbekistan",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Holy See (Vatican City State)",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Venezuela, Bolivarian Republic of",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Virgin Islands, British",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Virgin Islands, U.S.",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Viet Nam",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Vanuatu",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Wallis and Futuna",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Samoa",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Yemen",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"South Africa",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Zambia",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  },
+  {
+    "country":"Zimbabwe",
+    "common_local_transport_options":"Bus, Taxi, Ride-sharing, Metro",
+    "availability_in_rural_areas":"Limited or None",
+    "recommended_transport_for_tourists":"Metro, Ride-sharing in major cities",
+    "payment_methods_accepted":"Cash, Card, Mobile Apps",
+    "notes":"Transport availability varies by city and region."
+  }
+]
