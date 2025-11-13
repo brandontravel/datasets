@@ -1,0 +1,31 @@
+{
+  "title": "BrandonTravel Datasets",
+  "upload_type": "dataset",
+  "description": "A collection of open datasets for travelers, digital nomads, and tourism developers, including country, airport, visa, and safety information. Designed for integration with APIs and open data projects.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon",
+      "affiliation": "BrandonTravel / SoloTraveler.org"
+    }
+  ],
+  "license": "CC0-1.0",
+  "doi": "10.5281/zenodo.17595116",
+  "keywords": [
+    "travel",
+    "solo travel",
+    "digital nomads",
+    "open data",
+    "datasets",
+    "geography",
+    "tourism"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/brandontravel/datasets"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2025-11-12",
+  "access_right": "open"
+}
