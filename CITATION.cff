@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: BrandonTravel Datasets
+message: "Please cite this dataset if you use it in research, analysis, or applications."
+authors:
+  - family-names: Himpfen
+    given-names: Brandon
+repository-code: https://github.com/brandontravel/datasets
+version: 1.0.0
+license: CC0-1.0
+date-released: 2025-11-12
+doi: 10.5281/zenodo.17595116
+keywords:
+  - travel
+  - solo travel
+  - digital nomads
+  - tourism
+  - geography
+  - open data
+  - datasets
