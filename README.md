@@ -2,6 +2,10 @@
 
 A community-driven, public open datasets project supporting solo travelers, digital nomads, and travel advocates. These structured JSON datasets help travelers plan smarter, safer, and more connected journeys.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17595116.svg)](https://doi.org/10.5281/zenodo.17595116)
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![GitHub release](https://img.shields.io/github/v/release/brandontravel/datasets.svg)](https://github.com/brandontravel/datasets/releases)
+
 ## About This Project
 
 This repository provides modular, structured data files useful for travel-related apps, websites, and research. Datasets include country information, safety tips, cultural notes, tech connectivity, visa requirements, and more.
@@ -100,6 +104,25 @@ datasets/
   ```bash
   curl https://raw.githubusercontent.com/brandontravel/datasets/main/travel/travel-safety.json
   ```
+
+## Citation
+
+If you use this dataset in your research, project, or application, please cite it as:
+
+> Himpfen, Brandon. (2025). *BrandonTravel Datasets v1.0.0* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17595116](https://doi.org/10.5281/zenodo.17595116)
+
+```bibtex
+@dataset{himpfen_brandontravel_2025,
+  author       = {Himpfen, Brandon},
+  title        = {BrandonTravel Datasets},
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17595116},
+  url          = {https://doi.org/10.5281/zenodo.17595116}
+}
+```
 
 ## Contributing
 
